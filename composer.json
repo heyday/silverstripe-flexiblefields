@@ -1,0 +1,16 @@
+{
+    "name": "heyday/silverstripe-flexiblefields",
+    "type": "silverstripe-module",
+    "description": "Allows the use of extra attributes on various SilverStripe input fields",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cam Spiers",
+            "email": "cameron@heyday.co.nz",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "composer/installers": "1.0.0"
+    }
+}
